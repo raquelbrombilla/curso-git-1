@@ -13,7 +13,7 @@ Curso ministrado pelo Professor Vinicius Bisongnin Immich do Instituto Federal F
  1.  
  2.  Marco André Babinski
  3.  
- 4.  
+ 4. Raquel Brombilla
  5.  
  6.  
  7.  
@@ -31,7 +31,7 @@ Curso ministrado pelo Professor Vinicius Bisongnin Immich do Instituto Federal F
  19.  
  20.  
  21. 
- 22. Raquel Brombilla
+ 22. 
  23.  
  24.  
  25.  
